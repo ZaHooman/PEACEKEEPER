@@ -40,7 +40,7 @@ In a world haunted by the unknown, **PEACEKEEPER** watches over the living and s
 
 ---
 
-## 🧪 Sample Output (Serial)
+## 👾 Sample Output
 ```
 Temp: 23.4°C | Humidity: 56.2% | Distance: 9.4 cm
 Temp: 23.0°C | Humidity: 57.8% | Distance: 5.7 cm → [ALERT!]
@@ -57,7 +57,7 @@ Temp: 23.0°C | Humidity: 57.8% | Distance: 5.7 cm → [ALERT!]
 
 ---
 
-## 🎃 Built With
+## 💻 Built With
 - Arduino IDE
 - Team spirit *(wink wink 😉)*
 
