@@ -31,8 +31,8 @@ In a world haunted by the unknown, **PEACEKEEPER** watches over the living and s
 - **Movement under 6 cm** → 🔴 Red LED + scary buzzer (500 Hz) = 🚨 Danger zone!
 - All data is sent via **Serial output** for real-time graphing
 
-![Graphical Analysis 1](PEACEKEEPER/data/GraphicalAnalysis1.png)
-![Graphical Analysis 2](PEACEKEEPER/data/GraphicalAnalysis2.png)
+![Graphical Analysis 1](/data/GraphicalAnalysis1.png)
+![Graphical Analysis 2](/data/GraphicalAnalysis2.png)
 
 ---
 
