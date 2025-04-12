@@ -17,7 +17,16 @@
 *.md      text eol=lf
 *.csv     text eol=lf
 
-# --- Optional: enforce UTF-8 encoding ---
+# --- enforce UTF-8 encoding ---
 *.txt     text eol=lf working-tree-encoding=UTF-8
 *.md      text eol=lf working-tree-encoding=UTF-8
 *.csv     text eol=lf working-tree-encoding=UTF-8
+
+# Force .ino files to be treated as C++
+*.ino linguist-language=C++
+*.pde linguist-language=C++
+
+git add .gitattributes
+git commit -m "Fix language detection for Arduino"
+git push
+
