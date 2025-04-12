@@ -1,0 +1,23 @@
+# C++ Source Files
+*.cpp     text eol=lf
+*.h       text eol=lf
+*.hpp     text eol=lf
+*.cc      text eol=lf
+*.cxx     text eol=lf
+*.hxx     text eol=lf
+
+# Arduino Sketch Files
+*.ino     text eol=crlf
+*.pde     text eol=crlf
+
+# C++ and Arduino Files: Ensure correct language detection on GitHub
+*.cpp     linguist-language=C++
+*.h       linguist-language=C++
+*.hpp     linguist-language=C++
+*.ino     linguist-language=C++
+*.pde     linguist-language=C++
+
+# Text files to be treated as plain text
+*.txt     text
+*.md      text
+*.csv     text
