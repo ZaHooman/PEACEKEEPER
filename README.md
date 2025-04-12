@@ -27,8 +27,8 @@ In a world haunted by the unknown, **PEACEKEEPER** watches over the living and s
 | 🌡️ **DHT11** | Detects sharp **drops in humidity/temperature** | **Funnel or Residual Ghost** |
 | 📏 **Ultrasonic Sensor** | Detects **nearby movement** or presence | **Poltergeist or Shadow Figure** |
 
-- **Sudden humidity rise** → 🔵 Blue LED + buzzer = ⚠️ Possible ghost cold spot
-- **Movement under 6 cm** → 🔴 Red LED + loud buzzer = 🚨 Danger zone!
+- **Sudden humidity rise** → 🔵 Blue LED + high-pitched buzzer (1000 Hz) = ⚠️ Possible ghost cold spot
+- **Movement under 6 cm** → 🔴 Red LED + scary buzzer (500 Hz) = 🚨 Danger zone!
 - All data is sent via **Serial output** for real-time graphing in Processing
 
 ---
