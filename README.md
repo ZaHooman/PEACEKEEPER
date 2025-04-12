@@ -29,7 +29,7 @@ In a world haunted by the unknown, **PEACEKEEPER** watches over the living and s
 
 - **Sudden humidity rise** → 🔵 Blue LED + high-pitched buzzer (1000 Hz) = ⚠️ Possible ghost cold spot
 - **Movement under 6 cm** → 🔴 Red LED + scary buzzer (500 Hz) = 🚨 Danger zone!
-- All data is sent via **Serial output** for real-time graphing in Processing
+- All data is sent via **Serial output** for real-time graphing 
 
 ---
 
@@ -48,7 +48,7 @@ Temp: 23.0°C | Humidity: 57.8% | Distance: 5.7 cm → [ALERT!]
 
 ---
 
-## 👻 Future Ideas
+## 🌱 Future Ideas
 - AI-based ghost personality generator or classifier
 - Sound analysis for EVP-style detection
 - Villager fear response detection using voice/emotion analysis
