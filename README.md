@@ -31,16 +31,8 @@ In a world haunted by the unknown, **PEACEKEEPER** watches over the living and s
 - **Movement under 6 cm** → 🔴 Red LED + scary buzzer (500 Hz) = 🚨 Danger zone!
 - All data is sent via **Serial output** for real-time graphing
 
-![](PEACEKEEPER/data/GraphicalAnalysis1.png)
-![](PEACEKEEPER/data/GraphicalAnalysis2.png)
-
-git add PEACEKEEPER/data/GraphicalAnalysis1.png
-git commit -m "Add images"
-git push
-
-git add PEACEKEEPER/data/GraphicalAnalysis2.png
-git commit -m "Add images"
-git push
+![Graphical Analysis 1](https://github.com/ZaHooman/PEACEKEEPER/raw/main/PEACEKEEPER/data/GraphicalAnalysis1.png)
+![Graphical Analysis 2](https://github.com/ZaHooman/PEACEKEEPER/raw/main/PEACEKEEPER/data/GraphicalAnalysis2.png)
 
 ---
 
