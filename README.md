@@ -34,6 +34,14 @@ In a world haunted by the unknown, **PEACEKEEPER** watches over the living and s
 ![](PEACEKEEPER/data/GraphicalAnalysis1.png)
 ![](PEACEKEEPER/data/GraphicalAnalysis2.png)
 
+git add PEACEKEEPER/data/GraphicalAnalysis1.png
+git commit -m "Add images"
+git push
+
+git add PEACEKEEPER/data/GraphicalAnalysis2.png
+git commit -m "Add images"
+git push
+
 ---
 
 ## 💡 Features
