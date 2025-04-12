@@ -29,7 +29,10 @@ In a world haunted by the unknown, **PEACEKEEPER** watches over the living and s
 
 - **Sudden humidity rise** → 🔵 Blue LED + high-pitched buzzer (1000 Hz) = ⚠️ Possible ghost cold spot
 - **Movement under 6 cm** → 🔴 Red LED + scary buzzer (500 Hz) = 🚨 Danger zone!
-- All data is sent via **Serial output** for real-time graphing 
+- All data is sent via **Serial output** for real-time graphing
+
+![](PEACEKEEPER/data/GraphicalAnalysis1.png)
+![](PEACEKEEPER/data/GraphicalAnalysis2.png)
 
 ---
 
