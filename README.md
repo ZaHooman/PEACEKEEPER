@@ -1,6 +1,6 @@
 # 👻 PEACEKEEPER: Paranormal Entity Awareness & Communication Environment Keeper
 
-**An Arduino-based ghost monitoring and village alert system** built during a hackathon *(GhostHacks Hackathon - Penn State Abington)* to help restless spirits and nearby villagers find peace. The PEACEKEEPER uses environmental sensors to detect potential ghostly presences and alerts villagers of paranormal threats in real time!
+**An Arduino-based ghost monitoring and village alert system** built during a hackathon *(GhostHacks Hackathon - Penn State Abington: 2nd Place!!)* to help restless spirits and nearby villagers find peace. The PEACEKEEPER uses environmental sensors to detect potential ghostly presences and alerts villagers of paranormal threats in real time!
 
 ---
 
