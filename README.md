@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Project Idea
+## 🧠 Project Idea/Prompt
 In a world haunted by the unknown, **PEACEKEEPER** watches over the living and senses the unrest of the dead. If strange activity is detected, it triggers alarms and visual signals, warning nearby villagers of entities like **poltergeists**, **residual ghosts**, and more.
 
 ---
